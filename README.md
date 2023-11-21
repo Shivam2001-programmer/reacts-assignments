@@ -1,5 +1,5 @@
 # reacts-assignments
 
 ## How to use the project
-Clone the  project 
-Install dependencies (npm i)
+1. Clone the  project 
+2. Install dependencies (npm i)
